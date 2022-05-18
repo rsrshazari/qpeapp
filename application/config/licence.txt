@@ -1,0 +1,1 @@
+{"is_active":"f7bd114dfca70e28fa33bd6e46fe3b03","purchase_code":"7ccee164-b708-4864-8797-387a3cca7957","item_name":"ChatPion - Facebook Chatbot, eCommerce & Social Media Management Tool (SaaS)","buy_at":"2021-11-25T18:02:10+11:00","licence_type":"Extended License","domain":"store.qpe.co.in","checking_date":"2021-12-07"}
